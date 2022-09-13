@@ -14,9 +14,9 @@ Here are some quick facts about myself and my work:
 
 - 💬 Ask me about interesting projects & every sport you can imagine
 
-- 📫 How to reach me: info@fullstackseb.com
+- 📫 How to reach me: info@fullstackseb.com (working website is in progress, email works tough)
 
-- ⚡ Fun fact: I really struggle to think I am 'real' developer
+- ⚡ Fun fact: I like to get up early and I can't get used to the feeling that you sometimes just feel 'dumb' as a developer
 
 
-Thanks for being at my profile and I might see you soon! :)
+Thanks for looking at my profile and I might talk to you soon!
