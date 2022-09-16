@@ -8,7 +8,7 @@ I have built some projects and they are public repos, so please feel free to hav
 
 Here are some quick facts about myself and my work:
 
-- 🔭 I’m currently working on creating more projects with React (currently a quiz app)
+- 🔭 I’m currently working on creating private trello clone with React
 - 🌱 I’m currently learning Node.js and MongoDB
 - 🤔 I’m always looking to learn new skills
 
