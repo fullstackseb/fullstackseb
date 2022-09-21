@@ -8,8 +8,8 @@ I have built some projects and they are public repos, so please feel free to hav
 
 Here are some quick facts about myself and my work:
 
-- 🔭 I’m currently working on creating my own Quiz App with React
-- 🌱 I’m currently learning Node.js and MongoDB
+- 🔭 I’m currently working on creating my own Trello clone with React
+- 🌱 I’m currently learning Node.js and MongoDB and always improve in handling the CLI and Linux (Ubuntu)
 - 🤔 I’m always looking to learn new skills
 
 - 💬 Ask me about interesting projects & every sport you can imagine
