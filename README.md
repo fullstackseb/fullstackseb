@@ -8,7 +8,7 @@ I have built some projects and they are public repos, so please feel free to hav
 
 Here are some quick facts about myself and my work:
 
-- 🔭 I’m currently working on creating my own Ketle Bell training application with React
+- 🔭 I’m currently working on creating my own Kettle Bell training application with React
 - 🌱 I’m currently learning Node.js and MongoDB and I use Linux (Ubuntu) on a daily basis
 - 🤔 I’m always looking to learn new skills
 
