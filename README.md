@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-My name is Sebastian and I am a Developer. I like to work with JavaScript and React. I mostly use Tailwind CSS and Daisy UI for the frontend.
-For the backend I work my way towards Node.js and MongoDB to work full stack with the MERN Stack.
+My name is Sebastian and I am a Developer. I like to work with JavaScript. I mostly use React, Tailwind CSS and Daisy UI for the frontend.
+For the backend I start to use NodeJS and MongoDB to work full stack with the MERN Stack.
 
 I have built some projects and they are public repos, so please feel free to have a look at them. I am a self thaught developer who started coding in 2019. After completing some online courses (@CodingNomads, Udemy) I applied for a conversion Master in Data Engineering at Edinburgh Napier University where I also spent one year during my undergraduate degree. I like the logical side of programming and databases rather than being a designer. I also like the overview and the big picture of projects. That's why I am focussing on fullstack work instead of specialising in front or backend technology. Previous to shifting careers I worked as an Auditor (Finance & IT) and studied business management as an undergraduate degree.
 
 Here are some quick facts about myself and my work:
 
-- 🔭 I’m currently working on creating my own Kettle Bell training application with React
+- 🔭 I’m currently working on creating my own typing speed measurement website with own API
 - 🌱 I’m currently learning Node.js and I use Linux (Ubuntu) on a daily basis
 - 🤔 I’m always looking to learn new skills
 
