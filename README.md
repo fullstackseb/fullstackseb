@@ -11,7 +11,7 @@ I am a self thaught developer who started coding in 2019. After completing some 
 Here are some quick facts about myself and my work:
 
 - 🔭 I’m currently working on creating some of my own API's with Frontend (typing speed, travel planner, password checker)
-- 🌱 I’m currently learning more about MERN full stack development with (Brad Traversy)[https://www.traversymedia.com/] and (Jonas Schmedtmann)[http://jonas.io/] and I use Linux (Ubuntu) on a daily basis
+- 🌱 I’m currently learning more about MERN full stack development with [Brad Traversy](https://www.traversymedia.com/) and [Jonas Schmedtman](http://jonas.io/) and I use Linux (Ubuntu) on a daily basis
 - 🤔 I’m always looking to learn new skills 
 
 - 💬 Ask me about interesting projects & every sport you can imagine (I even watch curling sometimes)
