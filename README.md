@@ -3,8 +3,7 @@
 
 My name is Sebastian and I am a developer. 
 
-I like to work with JavaScript and Python. I mostly use React for the Frontend
-and NodeJS with Express for the Backend to work use the MERN Stack entirely.
+I like to work with JavaScript. I like using the MERN Stack and such I am using NodeJS, Express and MongoDB for the backend and React for the frontend.
 
 I am a self thaught developer who started coding in 2019. After completing some online courses (@CodingNomads, Jonas Schmedtmann@Udemy) I applied for a conversion Master in Data Engineering at Edinburgh Napier University. I like the logical side of programming and databases rather than being a designer. Previous to shifting careers I worked as an Auditor (Finance & IT) and studied business management as an undergraduate degree.
 
