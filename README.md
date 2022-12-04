@@ -3,7 +3,7 @@
 
 My name is Sebastian and I am a developer. 
 
-I like to work with JavaScript. I mostly use React for the Frontend
+I like to work with JavaScript and Python. I mostly use React for the Frontend
 and NodeJS with Express for the Backend to work use the MERN Stack entirely.
 
 I am a self thaught developer who started coding in 2019. After completing some online courses (@CodingNomads, Jonas Schmedtmann@Udemy) I applied for a conversion Master in Data Engineering at Edinburgh Napier University. I like the logical side of programming and databases rather than being a designer. Previous to shifting careers I worked as an Auditor (Finance & IT) and studied business management as an undergraduate degree.
@@ -12,9 +12,9 @@ Here are some quick facts about myself and my work:
 
 - 🔭 I’m currently working on creating some of my own API's with Frontend (typing speed, travel planner, password checker)
 
-- 🌱 I’m currently learning more about MERN full stack development with [Brad Traversy](https://www.traversymedia.com/) and [Jonas Schmedtman](http://jonas.io/) and I use Linux (Ubuntu) on a daily basis
+- 🌱 I’m currently learning about MERN full stack development with [Brad Traversy](https://www.traversymedia.com/) and [Jonas Schmedtman](http://jonas.io/) and the AWS Cloud
 
-- 🤔 I’m always looking to learn new skills and want to contribute more to Open Source
+- 🤔 I’m always looking to learn new skills and want to contribute to Open Source more
 
 - 💬 Ask me about interesting projects & every sport you can imagine (I even watch curling sometimes)
 
