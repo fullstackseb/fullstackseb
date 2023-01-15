@@ -3,15 +3,15 @@
 
 My name is Sebastian and I am a developer and data analyst.
 
-I like using the MERN Stack and such I am using NodeJS, Express and MongoDB for the backend and React or plain JS for the frontend. Data.wise I like using Python and SQL.
+I like using Python and SQL and do all sorts of data analysis and database things. I played around a little bit with the MERN Stack to learn JavaScript and NodeJS and get a better understanding of Full Stack Web Development.
 
-I am a self thaught developer who started coding in 2019. After completing some online courses (@CodingNomads, Jonas Schmedtmann@Udemy) I applied for a conversion Master in Data Engineering at Edinburgh Napier University. I like working with databases, large sets  of data and getting insights about it rather than being a designer. Working on the backend to get the desired data is therefore a prerequesite. Previous to shifting careers I worked as an Auditor (Finance & IT) and studied business management as an undergraduate degree.
+I am a self thaught developer who started coding in 2019. After completing some online courses (@CodingNomads) I applied for a conversion Master in Data Engineering at Edinburgh Napier University. I like working with databases, large sets  of data and getting insights about it especially for business related problems. Previous to shifting careers I worked as an Auditor (Finance & IT) and studied business management as an undergraduate degree.
 
 Here are some quick facts about myself and my work:
 
-- 🔭 I’m currently working on creating some of my own API's and just got the Google Analytics Certification
+- 🔭 I’m currently working on getting Google Certified (Associate Cloud Engineer)
 
-- 🌱 I’m currently learning about MERN full stack development with [Brad Traversy](https://www.traversymedia.com/) and [Jonas Schmedtman](http://jonas.io/)
+- 🌱 I’m very much interested in Data Analytics, AI & ML, Web 3, Blockchain, Automation, Cloud Computing and there is so much new stuff coming up every day!
 
 - 🤔 I’m always looking to learn new skills
 
