@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Sebastian and I am a developer and data analyst.
+My name is Sebastian and I am an auditor and data analyst.
 
 I like using Python and SQL and do all sorts of data analysis and database things. I played around a little bit with the MERN Stack to learn JavaScript and NodeJS and get a better understanding of Full Stack Web Development.
 
@@ -9,13 +9,13 @@ I am a self thaught developer who started coding in 2019. After completing some 
 
 Here are some quick facts about myself and my work:
 
-- 🔭 I’m currently working on getting Google Certified (Associate Cloud Engineer)
+- 🔭 I’m currently working on IT Audit & Information Security (ISO 27001, NIST Framework, OSCP)
 
-- 🌱 I’m very much interested in Data Analytics, AI & ML, Web 3, Blockchain, Automation, Cloud Computing and there is so much new stuff coming up every day!
+- 🌱 I’m very much interested in Data Analytics and Deep Learning in combination with Penetration Testing and Information Security. Cloud & IoT Security being a special interest of mine (especially smart homes!)
 
 - 🤔 I’m always looking to learn new skills
 
-- 💬 Ask me about interesting projects & every sport you can imagine (I even watch curling sometimes)
+- 💬 Ask me about interesting projects & every sport you can imagine (I even watch curling in winter times)
 
 
 Thanks for looking at my profile and I might talk to you soon!
