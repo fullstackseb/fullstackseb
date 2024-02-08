@@ -9,7 +9,7 @@ I am a self thaught developer who started coding in 2019. After completing some 
 
 Here are some quick facts about myself and my work:
 
-- 🔭 I currently working in IT-Audit
+- 🔭 I currently work in IT-Audit
 
 - 🌱 I’m very much in different possibilities for Backend development
 
